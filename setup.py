@@ -8,7 +8,7 @@ setup(
     description="A Python package for implementing the TOPSIS method.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/Topsis-Akshita-102203527",
+    url="https://github.com/Akshita1414/Topsis-Akshita-102203527.git",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
